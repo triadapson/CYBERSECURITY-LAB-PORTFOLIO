@@ -173,4 +173,4 @@ Configured LACP EtherChannel on S1, S2, S3. Verified with `show etherchannel sum
 
 ---
 
-*Portfolio maintained by [Your Name] · [LinkedIn] · [Your Email]*
+*Portfolio maintained by [Oladapo Afolabi] · [https://www.linkedin.com/in/oladapo-afolabi-561834145/] · [oladapokafolabi@gmail.com]*
