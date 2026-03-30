@@ -2,6 +2,7 @@
 
 A collection of hands-on labs completed as part of a **CompTIA A+ aligned** course in Computer and Networking Fundamentals. These labs cover hardware, networking, operating systems, security, and scripting — building a strong foundation in IT support and cybersecurity.
 
+All screenshots to Labs can be found here : https://docs.google.com/document/d/1qfDSi2HImrpXIo1FMYIOX8mRDuBxyNQ9/edit?usp=drive_link&ouid=102757233326623178029&rtpof=true&sd=true
 ---
 
 ## 📋 Table of Contents
