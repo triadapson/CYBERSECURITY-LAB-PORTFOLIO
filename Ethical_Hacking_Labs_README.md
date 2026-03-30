@@ -1,7 +1,7 @@
 # 🎯 Ethical Hacking — Lab Portfolio
 
 Hands-on labs covering the full **penetration testing lifecycle** — from reconnaissance through exploitation, post-exploitation, hardening, and social engineering — using Kali Linux, Metasploit, VirtualBox, and industry-standard offensive security tools.
-
+**All screenshots to Labs can be found here : https://docs.google.com/document/d/18eiOEwqXXv8k0TgWPDe3uQYhLu5IOqn9/edit?usp=drive_link&ouid=102757233326623178029&rtpof=true&sd=true
 ---
 
 ## 📋 Table of Contents
