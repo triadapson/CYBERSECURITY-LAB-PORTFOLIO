@@ -2,6 +2,7 @@
 
 Hands-on digital forensics labs covering the complete **forensic investigation lifecycle** — from evidence acquisition and crime scene processing through file system analysis, steganography detection, email forensics, and VM investigations — using Autopsy, FTK Imager, OSForensics, and WinHex.
 
+All screenshots to Labs can be found here : https://docs.google.com/document/d/1OqhjfR3BMF2ZXb6Ztym3pEVcBk_nGTsU/edit?usp=drive_link&ouid=102757233326623178029&rtpof=true&sd=true
 ---
 
 ## 📋 Table of Contents
